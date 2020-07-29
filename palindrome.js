@@ -19,4 +19,3 @@ numInput.addEventListener('input',function(){
 
 
 
-gh
