@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+    background: linear-gradient(to right,purple, darkblue, rgb(18, 129, 173));
+   // color: white;
+    margin: 80px;
+    padding: 0;
+    
+}
+.heading{
+    background-color: rgb(52, 52, 151);
+    background: linear-gradient(black, rgb(100, 77, 77) );
+    color:whitesmoke;
+    width: 390px;
+    border-radius: 0.1cm;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.main{
+    
+    
+}
+.inPut{
+    background-color: rgb(230, 218, 218);
+    background: linear-gradient(to top, black, rgb(230, 218, 218));
+    border-radius: 0.6cm;
+    
+    width: 350px;
+    height: 150px;
+    margin: 50px auto;
+    padding: 10px;
+    position: relative;
+}
+#Inbadge{
+    background-color: black;
+    //background: linear-gradient(black, rgb(233, 69, 96));
+    color: white;
+    width: max-content;
+    padding: 5px 10px;
+    position: absolute;
+    top: -10px;
+    right: 42%;
+}
+input[type = number]{
+    background-color: red;
+    color:purple;
+    border: 0;
+    
+} 
+
+#string{
+    font-size: xx-large;
+    position: absolute;
+    top: 60px;
+    right: 100px;
+}
+::placeholder{
+    color:black;
+    font-weight: 700;
+    //font-size: xx-large;
+}
+
+
+
+
+.result{
+    background-color: rgb(52, 52, 151);
+    background: linear-gradient(to left, black, rgb(100, 77, 77));
+    border-radius: 0.1cm;
+    padding: 10px;
+    width: 150px;
+    height: 60px;
+    float: right;
+    position: relative;
+    
+}
+#Outbadge{
+    background-color: black;
+    //background: linear-gradient(black, rgb(233, 69, 96));
+    color: white;
+    width: max-content;
+    padding: 5px 10px;
+    position: absolute;
+    top: -10px;
+    right: 28%;
+  
+}
+#yesno{
+    color: whitesmoke;
+    font-size: xx-large;
+    position: absolute;
+    top: 20px;
+    right: 60px;
+}
