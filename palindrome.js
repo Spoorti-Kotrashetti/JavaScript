@@ -16,3 +16,7 @@ numInput.addEventListener('input',function(){
     }
     document.getElementById("yesno").innerHTML = final;
 });
+
+
+
+ghj
